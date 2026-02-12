@@ -24,17 +24,18 @@ The game provides:
 ```
 Memory_Game/
 │
-├── button.py              # UI button class
-├── input_box.py           # Text input box handler
-├── instruction_image.py   # Instructional graphics
-├── memory_game.py         # Core game logic
-├── memory_palace.py       # Mnemonic technique implementation
-├── scoreboard.py          # Score display and tracking
-├── settings.py            # Game configuration
-├── show_time.py           # Timer display
-├── images/                # Images used in the game
+├── memory_game.py        # Main entry point to run the game
+├── memory_palace.py      # Memory palace (mnemonic) logic
+├── button.py             # Button UI component
+├── input_box.py          # Text input handling
+├── scoreboard.py         # Score tracking and display
+├── show_time.py          # Timer functionality
+├── instruction_image.py  # Instruction display handling
+├── settings.py           # Game configuration
+├── images/               # Game image assets
 ├── LICENSE
-└── README.md              # Project documentation
+├── Readme.md             # This file
+└── .gitignore
 ```
 
 ---
