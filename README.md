@@ -34,7 +34,7 @@ Memory_Game/
 ├── settings.py           # Game configuration
 ├── images/               # Game image assets
 ├── LICENSE
-├── Readme.md             # This file
+├── README.md             # This file
 └── .gitignore
 ```
 
